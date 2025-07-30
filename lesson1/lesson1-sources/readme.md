@@ -1,1 +1,0 @@
-# Linux Installation for Ubuntu
